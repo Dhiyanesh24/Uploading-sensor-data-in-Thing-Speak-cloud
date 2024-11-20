@@ -80,8 +80,8 @@ Automatically act on your data and communicate using third-party services like T
 //#include <OneWire.h>
 //#include <DallasTemperature.h>
 
-char ssid[] = "Ezhil"; // Your WiFi SSID
-char pass[] = "0987654321";  // Your WiFi password
+char ssid[] = "Dhiyanesh"; // Your WiFi SSID
+char pass[] = "notformebro";  // Your WiFi password
 
 const int out = 23; // Pin for temperature sensor data
 long T;
